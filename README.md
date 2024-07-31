@@ -1,1 +1,2 @@
 # AI-for-Translation
+In this project, we are expected to perform automation tasks on the documents provided by the Atlas Copco Team. These documents consist of instruction manuals for the equipment. According to their suggested workflow, they have divided tasks into two phases: Phase 1, which involves AIB preparation, and Phase 2, which includes translation. Currently, we are working on Phase 2, where we are developing translation models to translate text presented in the AIB documents.
